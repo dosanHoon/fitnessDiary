@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 import { BrowserRouter, Switch, Route } from "react-router-dom"
-import { InputDiary, Main } from "./container"
+import { InputDiary, Main } from "./pages"
 
 class App extends Component {
   render() {
